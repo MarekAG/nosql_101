@@ -4,7 +4,7 @@ The html pages use [Minimal theme](https://github.com/wbzyl/nosql-tutorial/setti
 
 Index:
 
-* [Elasticsearch](/nosql_101/elastic-crud)
+* [Elasticsearch](/nosql_101/elastic-crud) – Markdown (GFM)
 * [Bayesian Analysis](/nosql_101/bayes) – HTML only
 * [R Markdown](/nosql_101/rmarkdown) – R Markdown
-* ...?
+* ...
