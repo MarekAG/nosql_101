@@ -46,3 +46,20 @@ Przykładowy dokument:
    "tags": ["fiction", "children"]
 }
 ```
+
+HTTPie.
+
+```bash
+http --json POST 'http://localhost:9200/amazon/books' \
+  author:='{
+    "first_name": "Jackie",
+    "last_name": "London"
+  }' \
+  pages:=128 \
+  tags:='[
+    "fiction",
+    "adults"
+  ]' \
+  name="Call of the Wild" \
+  isbn="0812504322"
+```
