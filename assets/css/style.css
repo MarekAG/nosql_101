@@ -3,7 +3,7 @@
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove the margin in all browsers (opinionated). */
-body { margin: 0; }
+body { margin: 0; background-color: #f0f; }
 
 /* HTML5 display definitions ========================================================================== */
 /** Add the correct display in IE 9-. 1. Add the correct display in Edge, IE, and Firefox. 2. Add the correct display in IE. */
@@ -127,7 +127,7 @@ textarea { overflow: auto; }
 
 input, select, textarea, button { font-family: inherit; font-size: inherit; line-height: inherit; }
 
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; line-height: 1.5; color: #333; background-color: #fff; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 18px; line-height: 1.5; color: #333; background-color: #fff; }
 
 a { color: #4078c0; text-decoration: none; }
 a:hover, a:active { text-decoration: underline; }
