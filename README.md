@@ -4,5 +4,5 @@ The html pages use [Minimal theme](https://github.com/wbzyl/nosql-tutorial/setti
 
 Index:
 
-* [Elasticsearch](elastic-crud)
+* [Elasticsearch](/nosql_101/elastic-crud)
 * TODO
