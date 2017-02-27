@@ -33,3 +33,17 @@ curl -XDELETE localhost:9200/tweets
 http ...
 http ...
 ```
+
+Przykładowy dokument:
+```json
+{
+  "isbn": "0812504321",
+  "name": "Call of the Wild",
+  "author": {
+     "first_name": "Jack",
+     "last_name": "London"
+   },
+   "pages": 128,
+   "tags": ["fiction", "children"]
+}
+```
