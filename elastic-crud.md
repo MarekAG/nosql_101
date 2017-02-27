@@ -14,8 +14,8 @@ Podręczne linki do [ElasticSearch](https://github.com/elasticsearch):
   dokumentacja [Elasticsearch Plugins and Integrations](https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html)
 * [JSON specification for the Elasticsearch's REST API](https://github.com/elasticsearch/elasticsearch/tree/master/rest-api-spec)
 * [Guides](https://www.elastic.co/guide/index.html)
-* [References](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html):
-* [Modules](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules.html):
+* [References](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+* [Modules](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules.html)
   - [text scoring in scripts](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-advanced-scripting.html) –
   df, tf, ttf
 
@@ -25,7 +25,7 @@ Podstawowe terminy to: **index** i **type** wyjaśnimy na przykładach ze stron
 
 Częścią Elasticsearch jest wyszukiwarka [Apache Lucene](http://lucene.apache.org/). Składnia zapytań Lucene jest opisana w dokumencie [Query Parser Syntax](http://lucene.apache.org/core/old_versioned_docs/versions/3_5_0/queryparsersyntax.html).
 
-Tworzenie i usuwanie indeksu o nazwie *tweets* (korzystajac z programu _curl_ i _http).
+Tworzenie i usuwanie indeksu o nazwie *tweets* (korzystajac z programu _curl_ i _http_).
 
 ```sh
 curl -XPUT localhost:9200/tweets
