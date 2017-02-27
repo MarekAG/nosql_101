@@ -5,4 +5,4 @@ The html pages use [Minimal theme](https://github.com/wbzyl/nosql-tutorial/setti
 Index:
 
 * [Elasticsearch](/nosql_101/elastic-crud)
-* TODO
+* [Bayesian Analysis](/nosql_101/bayes)
