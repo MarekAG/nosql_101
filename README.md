@@ -6,5 +6,5 @@ Index:
 
 * [Elasticsearch](/nosql_101/elastic-crud)
 * [Bayesian Analysis](/nosql_101/bayes) – HTML only
-* [R Markdown](/nosql_101/rmarkdown)] – R Markdown
+* [R Markdown](/nosql_101/rmarkdown) – R Markdown
 * ...?
