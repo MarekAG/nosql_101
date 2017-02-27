@@ -1,9 +1,8 @@
 # Your data, Your search
 
-Zaczynamy od lektury [What's Wrong with SQL search](http://philip.greenspun.com/seia/search).
+Zaczynamy!
 
-Książka:
-
+* [What's Wrong with SQL search](http://philip.greenspun.com/seia/search).
 * [Elasticsearch – The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/master/index.html)
 
 Podręczne linki do [ElasticSearch](https://github.com/elasticsearch):
